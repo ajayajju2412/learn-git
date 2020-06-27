@@ -1,0 +1,2 @@
+File2 added right after File1
+File2 is modified
